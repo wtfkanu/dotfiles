@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ifechukwukanu@gmail.com
+	name = Precious Kanu
